@@ -49,7 +49,7 @@ namespace Test_project
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapRazorPages();dddd
+                endpoints.MapRazorPages();
             });
         }
     }
